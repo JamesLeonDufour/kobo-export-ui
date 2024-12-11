@@ -23,7 +23,7 @@ payload = {
     "query": {
         "$and": [
             {
-                "_submission_time": {
+                "_submission_time": { # _submission_time can also be replase with any fields in the submissions
                     "$gte": "2024-11-01T00:00:00",  # Replace with start date and time
                     "$lt": "2024-12-01T00:00:00"    # Replace with end date and time
                 }
