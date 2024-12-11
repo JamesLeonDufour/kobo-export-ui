@@ -1,6 +1,6 @@
 # kobo-export-ui
 
-A simple Python script to generate exports within specific dates that will appear in your account under Data > Download. This script minimizes the export size and ensures the server does not timeout before the export is processed.
+A simple Python script to generate exports within specific dates or any fields available in the submissions that will appear in your account under Data > Download. This script minimizes the export size and ensures the server does not timeout before the export is processed.
 
 ## Instructions
 
