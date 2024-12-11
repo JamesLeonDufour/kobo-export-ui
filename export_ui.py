@@ -15,7 +15,8 @@ payload = {
     "fields": [],
     "group_sep": "/",
     "hierarchy_in_labels": False,
-    "lang": "English (en)",             
+    "lang": "English (en)",     
+    "name": "name",              # you can give a name to your export
     "multiple_select": "summary",
     "type": "xls",
     "xls_types_as_text": False,
